@@ -1,6 +1,6 @@
 {
   "name": "github-calendar",
-  "version": "1.3.1",
+  "version": "1.3.4",
   "description": "Embed your GitHub contributions calendar anywhere.",
   "main": "lib/index.js",
   "directories": {
@@ -24,7 +24,8 @@
     "Evan Palmer <evjpalmer@gmail.com> (http://evanpalmer.net)",
     "Francesco Tonini <francescoantoniotonini@gmail.com> (https://francescotonini.it)",
     "Miroslav Vidovic <miroslav-vidovic@hotmail.com>",
-    "Mike Roibu <mike@codingden.net>"
+    "Mike Roibu <mike@codingden.net>",
+    "Rohit Rathi <rathirohitg1997@gmail.com> (https://rathirohit.github.io)"
   ],
   "license": "MIT",
   "bugs": {
